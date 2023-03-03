@@ -1,0 +1,162 @@
+[{
+    "id": 1,
+    "name": "france",
+    "description": "La France est un pays magnifique, riche en histoire, en culture et en gastronomie, avec des villes animées, des paysages à couper le souffle et une ambiance romantique qui ne manquera pas de vous captiver.",
+    "img_url" :"https://cdn.discordapp.com/attachments/1081136403137712150/1081136490677030942/france.webp",
+    "ville" : [{"name" : "Paris",
+                "image" :"_"},
+
+                {"name" : "Lyon",
+                "image" :"_"},
+
+                {"name" : "Le Mont-Saint-Michel",
+                "image" :"_"}]
+},
+{
+    "id": 4,
+    "name": "japon",
+    "description": "Le Japon est un pays fascinant, où tradition et modernité coexistent en harmonie. Des temples millénaires aux gratte-ciel ultramodernes, des jardins zen paisibles aux rues animées de Tokyo, en passant par une gastronomie raffinée et une culture populaire captivante, le Japon est une destination incontournable pour tous les voyageurs en quête de découvertes et d'émerveillement.",
+    "img_url" :"https://cdn.discordapp.com/attachments/1081136403137712150/1081136581655670834/japan.webp",
+    "ville" : [{"name" : "Tokyo",
+                "image" :"_"},
+
+                {"name" : "Kyoto",
+                "image" :"_"},
+
+                {"name" : "Okinawa",
+                "image" :"_"}
+            ]
+},
+{
+    "id": 7,
+    "name": "thaïlande",
+    "description": "La Thaïlande est un pays exotique et envoûtant, avec des temples dorés étincelants, des plages de sable blanc, des marchés flottants animés, une cuisine épicée et délicieuse, des massages relaxants, des fêtes électriques et une hospitalité légendaire. De Bangkok à Phuket en passant par Chiang Mai et Krabi, la Thaïlande offre une expérience de voyage inoubliable pour tous les sens.",
+    "img_url" :"https://cdn.discordapp.com/attachments/1081136403137712150/1081136621279256626/thailand.webp",
+    "ville" : [{"name" : "Bangkok",
+                "image" :"_"},
+
+                {"name" : "Phuket",
+                "image" :"_"},
+
+                {"name" : "Chiang Mai",
+                "image" :"_"}
+            ]
+},
+{
+    "id": 5,
+    "name": "italie",
+    "description": "L'Italie est un pays magnifique et diversifié, avec une histoire riche, une cuisine délicieuse, des paysages spectaculaires, des villes historiques époustouflantes, des musées fascinants, des plages idylliques et une ambiance romantique incomparable. Des canaux de Venise à la côte amalfitaine en passant par la Toscane et Rome, l'Italie offre une expérience de voyage inoubliable pour tous les goûts.",
+    "img_url" :"https://cdn.discordapp.com/attachments/1081136403137712150/1081136569018232892/italy.webp",
+    "ville" : [{"name" : "Rome",
+                "image" :"_"},
+
+                {"name" : "Venise",
+                "image" :"_"},
+
+                {"name" : "Florence",
+                "image" :"_"}
+]
+},
+{   "id": 9,
+    "name": "turquie",
+    "description": "La Turquie est un pays aux multiples facettes, avec une culture fascinante, une histoire riche, une cuisine délicieuse, des paysages époustouflants, des plages idylliques et une ambiance vibrante. Des mosquées majestueuses d'Istanbul aux montagnes enneigées de la région de l'Anatolie, en passant par les bains turcs, les marchés animés et les vestiges antiques, la Turquie est une destination de voyage qui vous laissera des souvenirs inoubliables.",
+    "img_url" :"https://cdn.discordapp.com/attachments/1081136403137712150/1081136636663967765/turkey.webp",
+    "ville" : 
+                 [{"name" : "Istanbul",
+                "image" :"_"},
+
+                {"name" : "Antalya",
+                "image" :"_"},
+
+                {"name" : "Izmir",
+                "image" :"_"}
+            ]
+},
+{
+    "id": 8,
+    "name": "maroc",
+    "description": "Le Maroc est un pays aux mille couleurs, aux mille saveurs et aux mille parfums, avec des villes historiques fascinantes, des paysages désertiques spectaculaires, des montagnes majestueuses, des marchés animés, une cuisine savoureuse et des gens accueillants. De Marrakech à Fès en passant par le désert du Sahara et la côte atlantique, le Maroc est une destination de voyage envoûtante qui ne manquera pas de vous surprendre et de vous inspirer.",
+    "img_url" :"https://cdn.discordapp.com/attachments/1081136403137712150/1081136611242278923/morocco.webp",
+    "ville" : 
+                 [{"name" : "Marrakech",
+                "image" :"_"},
+
+                {"name" : "Casablanca",
+                "image" :"_"},
+
+                {"name" : "Fès",
+                "image" :"_"}
+            ]
+},
+{
+    "id": 3,
+    "name": "états-unis",
+    "description": "Les États-Unis sont un pays immense et diversifié, avec des villes iconiques comme New York et Los Angeles, des parcs nationaux incroyables, des plages de rêve, des musées fascinants, une vie nocturne animée, une scène musicale vibrante et une cuisine variée qui ravira vos papilles - il y en a pour tous les goûts aux États-Unis !",
+    "img_url" :"https://cdn.discordapp.com/attachments/1081136403137712150/1081136633455329330/usa.webp",
+    "ville" : [{"name" : "New-York",
+                "image" :"_"},
+
+                {"name" : "Los Angeles",
+
+                "image" :"_"},
+
+                {"name" : "Las Vegas",
+                "image" :"_"}]
+
+},
+
+{
+    "id": 2,
+    "name": "espagne",
+    "description": "L'Espagne est un pays enchanteur, avec une architecture impressionnante, une cuisine délicieuse, des plages de sable fin, des villes animées et une vie nocturne trépidante - un mélange parfait pour des vacances inoubliables.",
+    "img_url" :"https://cdn.discordapp.com/attachments/1081136403137712150/1081136616048955422/spain.webp",
+    "ville" : [{"name" : "Madrid",
+                "image" :"_"},
+
+                {"name" : "Séville",
+                "image" :"_"},
+
+                {"name" : "Barcelone",
+                "image" :"_"}]
+},
+
+
+
+{
+    "id": 6,
+    "name": "mexique",
+    "description": "Le Mexique est un pays coloré et chaleureux, avec une culture fascinante, une cuisine épicée et savoureuse, des sites archéologiques impressionnants, des plages paradisiaques, des villes coloniales pittoresques et une vie nocturne animée. Des pyramides de Teotihuacan à la plage de Tulum en passant par la ville de Mexico et Oaxaca, le Mexique est une destination de voyage passionnante qui ne manquera pas de vous captiver.",
+    "img_url" :"https://cdn.discordapp.com/attachments/1081136403137712150/1081136599846371379/mexico.webp",
+    "ville" : [{"name" : "Mexico",
+                "image" :"_"},
+
+                {"name" : "Cancùn",
+                "image" :"_"},
+
+                {"name" : "Playa del Carmen",
+                "image" :"_"}
+]
+},
+
+
+
+ 
+
+{   "id": 10,
+    "name": "chine",
+    "description": "La Chine est un pays fascinant, avec une histoire millénaire, une culture riche, des paysages époustouflants, une cuisine délicieuse, des marchés animés et une modernité captivante. De la Grande Muraille aux palais impériaux en passant par les paysages de montagne et les mégalopoles ultramodernes, la Chine offre une expérience de voyage inoubliable pour les amateurs d'histoire, de culture et de découverte.",
+    "img_url" :"https://cdn.discordapp.com/attachments/1081136403137712150/1081136666376421396/china.webp",
+    "ville" : 
+                 [{"name" : "Pékin",
+                "image" :"_"},
+
+                {"name" : "Shanghai",
+                "image" :"_"},
+
+                {"name" : "Xi'an",
+                "image" :"_"}
+            ]
+}
+
+]
+

@@ -1,0 +1,4 @@
+%syntax-version=1.0.0
+%project=voyage
+
+init 2023-02-20T13:06:06Z julian <julian.squedin@gmail.com> # create tables
